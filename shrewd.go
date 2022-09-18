@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 )
-
+//Simple booking application for conference tickets
 func main() {
 	conferenceName := "Go Conference"
 	const conferenceTickets int = 50
