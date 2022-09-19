@@ -1,0 +1,7 @@
+A framework (whether mobile or web) is basically an environment to coalesce code (both FE & BE) & allow it to listen for requests.
+We've got web & application servers in relation to a hosted application.
+The web server hosts the front end code files such as html, css, javascript; while the application server contains backend content that runs the business logic aspect of the application.
+An example of a static web server is Apache & nginx, while dynamic application servers include Apache tomcat & unicorn.
+HTTP web servers are static; while dynamic application servers are dynamic - since the client interacts with the FE code to trigger particular processes, which isn't the case with static http web servers.
+Ps. Any laptop/computer can act as a server. A server's job is basically to listen in on requests from clients through a particular port and respond accordingly. 
+
