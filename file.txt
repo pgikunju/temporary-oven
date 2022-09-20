@@ -1,0 +1,23 @@
+
+A framework (whether mobile or web) is basically an environment to coalesce code (both FE & BE) & allow it to listen for requests.
+We've got web & application servers in relation to a hosted application.
+The web server hosts the front end code files such as html, css, javascript; while the application server contains backend content that runs the business logic aspect of the application.
+An example of a static web server is Apache & nginx, while dynamic application servers include Apache tomcat & unicorn.
+HTTP web servers are static; while dynamic application servers are dynamic - since the client interacts with the FE code to trigger particular processes, which isn't the case with static http web servers.
+Ps. Any laptop/computer can act as a server. A server's job is basically to listen in on requests from clients through a particular port and respond accordingly. 
+
+
+
+As i close in on a month of foundation learning of key concepts, today I learned:
+>Basics of an application (though I have a pretty good grasp of Go at the moment
+>Database concepts, how they operate, an understanding of what a relation & non-relational database actually means; The example in each category such as MySQL, PostgreSQL, Windows SQL Server & MongoDB, DynamoDB respectively.
+
+I also took a deep-dive in understanding the big picture of what DevOps seeks to achieve & I love the definition that I coined. DevOps (fundamentally, straight-to-the-point & in very few words) is culture. practice. tools. value. DevOps is continuous value delivery to a customer - (extended version) that is facilitated by an infusion of a particular organizational & team culture, tech tools & practices.
+
+
+Developing, compiling and packaging source code.
+After developing human readable code from various developers on the team, this is compiled into byte code (to allow mass compatibility with all manner of computers)
+In the case of code written in Java, .class files are created & all these files cumulatively form a .jar file. Dependancies are included by this stage. (created through a jar.... command) 
+
+A package manager eg. Gradle facilitates this entire process (compile>document>create deployable jar file)
+
