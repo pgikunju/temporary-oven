@@ -15,5 +15,9 @@ As i close in on a month of foundation learning of key concepts, today I learned
 I also took a deep-dive in understanding the big picture of what DevOps seeks to achieve & I love the definition that I coined. DevOps (fundamentally, straight-to-the-point & in very few words) is culture. practice. tools. value. DevOps is continuous value delivery to a customer - (extended version) that is facilitated by an infusion of a particular organizational & team culture, tech tools & practices.
 
 
+Developing, compiling and packaging source code.
+After developing human readable code from various developers on the team, this is compiled into byte code (to allow mass compatibility with all manner of computers)
+In the case of code written in Java, .class files are created & all these files cumulatively form a .jar file. Dependancies are included by this stage. (created through a jar.... command) 
 
+A package manager eg. Gradle facilitates this entire process (compile>document>create deployable jar file)
 
