@@ -21,3 +21,6 @@ In the case of code written in Java, .class files are created & all these files 
 
 A package manager eg. Gradle facilitates this entire process (compile>document>create deployable jar file)
 
+Explored NodeJS, Python basics & their respective package managers: NPM, PIP & ... 
+
+
