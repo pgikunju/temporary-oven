@@ -1,4 +1,5 @@
 
+
 A framework (whether mobile or web) is basically an environment to coalesce code (both FE & BE) & allow it to listen for requests.
 We've got web & application servers in relation to a hosted application.
 The web server hosts the front end code files such as html, css, javascript; while the application server contains backend content that runs the business logic aspect of the application.
@@ -22,5 +23,6 @@ In the case of code written in Java, .class files are created & all these files 
 A package manager eg. Gradle facilitates this entire process (compile>document>create deployable jar file)
 
 Explored NodeJS, Python basics & their respective package managers: NPM, PIP & ... 
+Next, taking a deep dive into databases will be great:)
 
-
+Next, i'll tak e
