@@ -1,3 +1,7 @@
 Continuous Integration/Continuous DElivery(Deployment) CI/CD Pipeline 
 
-Engineers develop code > Commit changes to source code (remote repo) >
+Engineers develop code > 
+Commit changes to source code (remote repo) >
+Jenkins (any CI PLatforms) continuously pull changes made to the source code > 
+Jenkins automates builds & deploys
+
