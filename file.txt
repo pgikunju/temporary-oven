@@ -25,4 +25,6 @@ A package manager eg. Gradle facilitates this entire process (compile>document>c
 Explored NodeJS, Python basics & their respective package managers: NPM, PIP & ... 
 Next, taking a deep dive into databases will be great:)
 
-Next, i'll tak e
+
+
+Understanding load balancing, reserve & forward proxy servers.
