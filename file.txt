@@ -28,3 +28,52 @@ Next, taking a deep dive into databases will be great:)
 
 
 Understanding load balancing, reserve & forward proxy servers.
+
+
+
+
+
+
+
+Agnostic vs native approaches.
+A cloud agnostic architecture approach involves developing applications compatible with various cloud based tools or solutions.
+A cloud native architecture approach involves developing applications solely built/incorporated with specific tools - pretty much vendor lock-in.
+
+
+                           CLOUD NATIVE vs CLOUD AGNOSTIC
+
+If dev teams focus is CORE SERVICES & APPS, for sake of company's business model> Start with 		Agnostic Approach> to avoid company survival to be tied to a cloud provider. Once stable, try native approach for ancillary (support) company services.
+
+
+If dev team focus is TIME TO MARKET - basically how quickly you get the product in front of the consumer, then a Native Approach is preferred before trying an agnostic approach once satbility is achieved or specialized resources are acquired to try an agnostic approach.
+
+
+
+1. COST
+>>Native: Cost-friendly; in-house tooling; cost management services to track spending
+>>Agnostic: Increased accessibility to more tools; self-tracking of spending
+
+
+2. FLEXIBILITY
+>>Native: In-house availability for security, networking & particular tools (CodeCommit; AWS)
+>>Agnostic: TAke advantage of devp trends; increased tooling access; devs create integrations & functionalities on their own (security, monitoring) - costly & time-consuming process.
+
+
+3. RELIABILITY
+>>Native:vendor lock-in with price hikes.
+>>Agnostic:REduced recovery time in event of a failure; minimized downtime during maintenance of one platform -easily switch to another
+
+
+4. TIME TO MARKET
+>>Native: Shorter time coz of ready-to-use infrastructure eg. Cloud BUild enables building, testing & deploying apps out of the box.
+>>Agnostic: Risk of losing competitive edge.
+
+
+5. SCALABILITY
+>>Native: N/A
+>>Agnostic: Useful when migrating on-prem services to the cloud -easier to trans while maintaining core business services.Apps & services are easily scalable to meet demand when moved btwn platforms.
+
+
+6. EFFICIENCY
+>>Native: Advantage in regards to support for security, app monitoring & b-e mgt.
+>>Agnostic: Orchestrating challenges when building a unified orchestration layer to manage complexities on different cloud platforms; wasting resources - tools that are never used.
