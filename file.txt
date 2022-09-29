@@ -77,3 +77,9 @@ If dev team focus is TIME TO MARKET - basically how quickly you get the product 
 6. EFFICIENCY
 >>Native: Advantage in regards to support for security, app monitoring & b-e mgt.
 >>Agnostic: Orchestrating challenges when building a unified orchestration layer to manage complexities on different cloud platforms; wasting resources - tools that are never used.
+
+
+
+
+
+Understanding the different services offered by GCP in detail: CLoud Functions, Cloud Run, App Engine, Compute Engine & GKE!
